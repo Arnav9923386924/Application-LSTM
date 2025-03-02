@@ -18,6 +18,7 @@ pip install torch pandas numpy matplotlib music21 scikit-learn
 ## Dataset
 The dataset used for training consists of **Kern** files stored in the specified `DATASET_PATH`. These files are parsed using **music21** and converted into numerical sequences.
 
+Dataset link: https://kern.humdrum.org/cgi-bin/browse?l=essen%2Feuropa%2Fdeutschl
 ## Usage
 ### 1. Preprocess Data
 Run the preprocessing script to prepare training data:
